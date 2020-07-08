@@ -7,4 +7,5 @@
         <property name="username" value="bean注入原始类型的数据username"></property>
     </bean>
     <bean id="userService" class="com.gumeik.domin.service.UserService" p:userDao-ref="user"/>
+
 </beans>

@@ -1,9 +1,7 @@
 package com.gumeik.domin.service;
 
-import com.gumeik.domin.User;
+
 import com.gumeik.domin.dao.UserDao;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class UserService {
     private UserDao userDao;
