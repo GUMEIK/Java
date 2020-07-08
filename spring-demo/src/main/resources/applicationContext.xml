@@ -3,6 +3,8 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:p="http://www.springframework.org/schema/p"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="user" class="com.gumeik.domin.dao.UserDao" scope="singleton"></bean>
+    <bean id="user" class="com.gumeik.domin.dao.UserDao" scope="singleton">
+        <property name="username" value="bean注入原始类型的数据username"></property>
+    </bean>
     <bean id="userService" class="com.gumeik.domin.service.UserService" p:userDao-ref="user"/>
 </beans>
