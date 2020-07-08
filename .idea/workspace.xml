@@ -19,11 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb260026-6e3e-44d9-858b-0b264c343499" name="Default Changelist" comment="addMappig" />
+    <list default="true" id="eb260026-6e3e-44d9-858b-0b264c343499" name="Default Changelist" comment="addMappig">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,12 +49,58 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\xuzhenlu\Desktop\Java\image" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.App1">
+    <configuration name="App0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gumeik.test2.App0" />
+      <module name="originCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gumeik.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gumeik.test2.App1" />
+      <module name="originCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gumeik.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gumeik.test1.App2" />
+      <module name="originCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App1" />
+        <item itemvalue="Application.App0" />
+        <item itemvalue="Application.App2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,6 +114,7 @@
       <updated>1594001399744</updated>
       <workItem from="1594001401211" duration="1645000" />
       <workItem from="1594006277836" duration="1277000" />
+      <workItem from="1594192082559" duration="3811000" />
     </task>
     <task id="LOCAL-00001" summary="adjustName">
       <created>1594001451111</created>
@@ -112,9 +170,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="addMappig" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1594192094309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1594192094309" />
+    <state x="394" y="41" key="#com.intellij.ide.util.MemberChooser" timestamp="1594193997473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="41" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1594193997473" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1594198060817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594198060817" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1594198060817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594198060817" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1594198060817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594198060817" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1594198060817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594198060817" />
     <state x="233" y="60" key="Vcs.Push.Dialog.v2" timestamp="1594002400242">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="60" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594002400242" />
+    <state x="28" y="1" key="new project wizard" timestamp="1594192109056">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1594192109056" />
   </component>
 </project>
