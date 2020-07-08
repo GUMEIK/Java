@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 <!--    <bean id="bookDao" class="com.gumeik.domin.dao.BookDao"></bean>-->
-    <bean id="bookDao1" class="com.gumeik.domin.dao.BookDao1">
-        <property name="bookname" value="《白夜行》"></property>
-    </bean>
+<!--    <bean id="bookDao1" class="com.gumeik.domin.dao.BookDao1">-->
+<!--        <property name="bookname" value="《白夜行》"></property>-->
+<!--    </bean>-->
 </beans>
